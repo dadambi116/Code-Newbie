@@ -18,7 +18,7 @@ menus = ['떡볶이','치킨','피자','라면','김밥']
 print(our_class.go_lunch(menus))
 '''
 '''
-# from 모듈명 import 함수명 및 변수명
+# 2. from 모듈명 import 함수명 및 변수명
 from our_class import teacher_name,student_count,study,lecture,go_lunch    # 모듈명을 매번 앞에 안 써도 됨!/ 반대로 어느 모듈에서 온건지 추적하기 어렵렵
 
 print(teacher_name)
